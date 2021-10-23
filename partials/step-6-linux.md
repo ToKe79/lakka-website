@@ -52,6 +52,6 @@ The game should be starting:
 
 If you need more information, please read our [FAQ](/doc/FAQ) and our [documentation](/doc/Home).
 
-If you need help, join us on [IRC](irc://irc.freenode.org/#lakkatv), or register on our [forum](https://forums.libretro.com/c/libretro/lakka-tv-general).
+If you need help, join us on Discord, IRC (links below in footer) or register on our [forum](https://forums.libretro.com/c/libretro/lakka-tv-general).
 
 Happy gaming!
