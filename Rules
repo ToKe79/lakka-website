@@ -67,11 +67,6 @@ compile '/tags/*/' do
   layout 'tag'
 end
 
-compile '/contact' do
-  filter :erb if item[:extension] == 'html'
-  layout 'contact'
-end
-
 compile '/articles/*/' do
   unless item.binary?
     filter :erb if ['html', 'xml', 'md'].include? item[:extension]
