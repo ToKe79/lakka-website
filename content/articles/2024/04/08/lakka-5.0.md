@@ -49,6 +49,7 @@ Changes since version 4.3:
     - Wayland session
   - Allwinner SOC:
     - OrangePi Zero2
+    - OrangePi 3 LTS
   - Amlogic SOC:
     - BananaPi CM4
     - BananaPi M2 Pro
@@ -61,6 +62,7 @@ Changes since version 4.3:
     - WeTek Play 2
   - Rockchip SOC:
     - Firefly ROC-PC Plus
+    - OrangePi 4 LTS
     - Radxa Rock Pi 4 Plus
     - Radxa Rock Pi 4 C Plus
   - Ayn Odin
