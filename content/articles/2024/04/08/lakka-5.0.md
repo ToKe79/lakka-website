@@ -22,7 +22,7 @@ We are happy to announce the new and updated version of Lakka.
 
 Changes since version 4.3:
 
-- based on LibreELEC 11.0 build system
+- Based on LibreELEC 11.0 build system
 - RetroArch updated to [1.17.0](https://www.libretro.com/index.php/retroarch-1-17-0-release/)
 - Cores updated to their most recent versions
 - New cores added:
