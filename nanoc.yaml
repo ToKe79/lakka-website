@@ -173,8 +173,6 @@ release:
 
   switch: https://le-builds.lakka.tv/Switch.aarch64/Lakka-Switch.aarch64-5.0.7z
 
-  odin: https://le-builds.lakka.tv/Odin.aarch64/Lakka-Odin.aarch64-5.0.tar
-
   rockchip.rk3326_odroidgo2: https://le-builds.lakka.tv/OdroidGoAdvance.arm/Lakka-OdroidGoAdvance.arm-3.7.4-odroidgo2.img.gz
   rockchip.rk3326_chi:       https://le-builds.lakka.tv/OdroidGoAdvance.arm/Lakka-OdroidGoAdvance.arm-3.7.4-gameforce-chi.img.gz
   rockchip.rk3326_rg351p:    https://le-builds.lakka.tv/OdroidGoAdvance.arm/Lakka-OdroidGoAdvance.arm-3.7.4-rg351p.img.gz
@@ -215,7 +213,6 @@ devel:
   oga: https://nightly.builds.lakka.tv/latest/OdroidGoAdvance.arm/
   exynos: https://nightly.builds.lakka.tv/latest/Exynos.arm/
   switch: https://nightly.builds.lakka.tv/latest/Switch.aarch64/
-  odin: https://nightly.builds.lakka.tv/latest/Odin.aarch64/
   all-latest: https://nightly.builds.lakka.tv/latest/
 
 links:
