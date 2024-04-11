@@ -37,7 +37,7 @@ Changes since version 4.3:
   - `vitaquake2`: Quake II
 - Mesa updated to [24.0.4](https://docs.mesa3d.org/relnotes/24.0.4.html)
 - Updated Linux kernel
-  - mainline: 6.1.80
+  - mainline: 6.1.84
   - raspberry: 6.1.77
   - amlogic: 6.1.38
 - Added images for following devices
@@ -45,8 +45,7 @@ Changes since version 4.3:
   - Raspberry Pi Zero 2 in Retroflag GPI Case 2W
   - Raspberry Pi Compute Module 4 in Retroflag GPI Case 2
   - Generic PC:
-    - X11 session (with proprietary nVidia driver)
-    - Wayland session
+    - Support for nVidia GPUs (using proprietary nVidia driver, separate image)
   - Allwinner SOC:
     - OrangePi Zero2
     - OrangePi 3 LTS
@@ -65,7 +64,7 @@ Changes since version 4.3:
     - OrangePi 4 LTS
     - Radxa Rock Pi 4 Plus
     - Radxa Rock Pi 4 C Plus
-  - Ayn Odin
+- [Retrorama](https://forums.libretro.com/t/retrorama-for-xmb/43690) - theme and dynamic wallpapers for XMB
 
 [Full changelog](<%= config[:links][:github] %>/compare/v4.3...v5.0)
 
