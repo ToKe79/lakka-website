@@ -33,6 +33,7 @@ Changes since version 4.3:
   - `jaxe`: XO-CHIP/S-CHIP/CHIP-8
   - `numero`: TI-83
   - `thepowdertoy`: The Powder Toy
+  - `vice_xpet`: Commodore PET
   - `vircon32`: Virtual Game Console inspired by 16/32-bit systems
   - `vitaquake2`: Quake II
 - Mesa updated to [24.0.4](https://docs.mesa3d.org/relnotes/24.0.4.html)
