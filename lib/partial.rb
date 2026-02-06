@@ -3,7 +3,7 @@ module Partial
     partial = "#{Dir.getwd}/partials/#{name}"
     partial2 = "#{Dir.getwd}/content/doc/#{name}"
 
-    if File.exists? partial then
+    if File.exist? partial then
 
       content = File.open(partial).read
       filters.each do |name|
@@ -14,7 +14,7 @@ module Partial
 
       content
 
-    elsif File.exists? partial2 then
+    elsif File.exist? partial2 then
 
       content = File.open(partial2).read
       filters.each do |name|
